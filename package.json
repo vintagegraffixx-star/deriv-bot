@@ -1,0 +1,15 @@
+{
+  "name": "deriv-boom-crash-bot-server",
+  "version": "1.0.0",
+  "description": "Deriv Boom & Crash EA Bot — Server Edition (Option B)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "ws": "^8.0.0"
+  }
+}
